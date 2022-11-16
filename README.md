@@ -1,5 +1,6 @@
 # 
 
+<<<<<<< HEAD
 <section style="  -webkit-box-shadow: 10px 15px 36px 14px #000000; 
   box-shadow: 10px 15px 36px 14px #000000;
   display: block;
@@ -23,6 +24,11 @@
   display: block;
   transform: translateY(-50%);
   border: 8px solid white;" src="https://www.imagemhost.com.br/images/2022/11/16/272192194_10219192747360604_7598904134037721093_n.jpg" />
+=======
+<section>
+  <header>
+    <img src="https://www.imagemhost.com.br/images/2021/04/02/40671940_10211572911749476_8028463683581509632_o.jpg" />
+>>>>>>> parent of d027dd5... Alterando a foto principal
   </header>
 <h1 style="font-size: 20px;">Eduardo Almeida da Silva</h1>
 
