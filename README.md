@@ -28,6 +28,9 @@
 <section>
   <header>
     <img src="https://www.imagemhost.com.br/images/2021/04/02/40671940_10211572911749476_8028463683581509632_o.jpg" />
+<<<<<<< HEAD
+>>>>>>> parent of d027dd5... Alterando a foto principal
+=======
 >>>>>>> parent of d027dd5... Alterando a foto principal
   </header>
 <h1 style="font-size: 20px;">Eduardo Almeida da Silva</h1>
