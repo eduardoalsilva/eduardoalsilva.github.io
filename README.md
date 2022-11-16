@@ -2,7 +2,7 @@
 
 <section>
   <header>
-    <img src="https://www.imagemhost.com.br/images/2021/04/02/40671940_10211572911749476_8028463683581509632_o.jpg" />
+    <img src="https://www.imagemhost.com.br/images/2022/11/16/272192194_10219192747360604_7598904134037721093_n.jpg" />
   </header>
 <h1>Eduardo Almeida da Silva</h1>
 
