@@ -38,6 +38,11 @@ body {
   }
   
   img{
+    width: 25px;
+    height: 25px;
+  }
+
+  .imagem-perfil{
     width: 150px;
     height: 150px;
     border-radius: 100%;
