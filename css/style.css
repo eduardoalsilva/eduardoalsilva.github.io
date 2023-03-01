@@ -33,16 +33,11 @@ body{
     font-weight: 400;
 }
 
-header{
-    background-color: var(--HEADER-BGCOLOR);
-    display: flex;
-    height: 80px;
-}
-
 nav{
     display: flex;
     justify-content: flex-end;
     position: fixed;
+    background-color: var(--HEADER-BGCOLOR);
     top: 0;
     left: 0;
     width: 100%;
@@ -62,6 +57,7 @@ h1{
 p{
     text-align: center;
     font-family: 'Poppins', sans-serif;
+    color: royalblue;
 }
 
 h2{
@@ -74,9 +70,10 @@ h2{
 }
 
 .nav_list a {
-    display: block;
+    display: flex;
     font-size: 2.2rem;
     padding: 2rem;
+
 }
 
 .nav_list a:hover{
@@ -94,12 +91,23 @@ a{
 
 #about{
     display: flex ;
+    font-size: 3rem;
     height: 100vh;
     flex-direction: column;
+    font-style: italic;
     justify-content: center;
     background-color: var(--MAIN-BLACK);
     background-image: linear-gradient(62deg, #3e3d40 0%, #181719 100%);
 }
+
+.projects{
+    text-align: center;
+    display: flex;
+    height: 100vh;
+    padding: 10rem 2rem;
+    background-image: radial-gradient(var(--MAIN-GRAY), dodgerblue)
+}
+
 
 @media screen and (min-width: 768px){
     
