@@ -101,11 +101,18 @@ a{
 }
 
 .projects{
-    text-align: center;
+    background-image: radial-gradient(var(--MAIN-GRAY), midnightblue);
     display: flex;
+    flex-direction: column;
     height: 100vh;
     padding: 10rem 2rem;
-    background-image: radial-gradient(var(--MAIN-GRAY), dodgerblue)
+    text-align: center;
+}
+
+.projects__section__header {
+    border-bottom: 0.2rem solid var(--MAIN-WHITE);
+    margin: 0 auto 6rem auto;
+    max-width: 640px;
 }
 
 
